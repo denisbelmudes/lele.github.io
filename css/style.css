@@ -70,4 +70,28 @@ width: 33px;
     display: block;
 }
 
+.footer{
+    display: flex;
+    justify-content:center;
+
+}
+
+.footer p{
+    color: white;
+    text-transform: uppercase;
+    bottom: 15px;
+    position: absolute;
+    font-family: Raleway;
+    font-style: italic;
+
+}
+
+.social :hover{
+    background-color: rgba(184,138,73,1)
+    
+}
+
+
+
+
     
